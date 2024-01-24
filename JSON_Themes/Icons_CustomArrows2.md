@@ -10,7 +10,7 @@ Down Green: ![ArrowDownGreen2](https://github.com/epanal/PowerBI/assets/25993147
 Up Red: ![ArrowUpRed2](https://github.com/epanal/PowerBI/assets/25993147/edecb4fa-a40d-4965-9c97-3ee674f13ba8)\
 Down Red: ![ArrowDownRed2](https://github.com/epanal/PowerBI/assets/25993147/080a316f-6d21-4668-85df-5950bedb057b)\
 Up Yellow: ![ArrowUpYellow2](https://github.com/epanal/PowerBI/assets/25993147/aa205d41-804c-4be7-8d31-7bdf372d7e85)\
-Down Yellow: ![ArrowDownYellow2](https://github.com/epanal/PowerBI/assets/25993147/e96214f9-8041-4f2a-8203-a6f21d32bc2a)\
+Down Yellow: ![ArrowDownYellow2](https://github.com/epanal/PowerBI/assets/25993147/e96214f9-8041-4f2a-8203-a6f21d32bc2a)
 
 
 
