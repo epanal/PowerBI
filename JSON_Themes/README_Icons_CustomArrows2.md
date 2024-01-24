@@ -1,6 +1,6 @@
 # Power BI Custom Arrows 2 Theme
 
-Since users may be limited to the standard icons in PowerBI, this JSON file specifies a custom PowerBI report theme that includes up and down arrow icons that can be used for conditional formatting. The up and down arrow icons are available in black, grey, green, yellow, and red.\
+Since users may be limited to the standard icons in PowerBI, this JSON file specifies a custom PowerBI report theme that includes up and down arrow icons that can be used for conditional formatting. The up and down arrow icons are available in black, grey, green, yellow, and red.
 
 The image icons are encoded using Base64 and the colors correspond to the following HEX values:\
 Black: #000000\
