@@ -2,43 +2,43 @@
     "name": "CustomArrowIcons2",
     "icons": {
         "ArrowUpBlack": {
-            "description": "Icon1",
+            "description": "UpBlack",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAp0lEQVR4nO3UvQrCMBSG4bdCC44djuBS6OV4AV630E1x6OjQuR0jQiZJm/7kRCn54BvDwwnJgZQ/zwm4AXegioUK0ADGtgXq2KiJgcsIqoqLB1XBZSYaFJeFaBBcVqKbcNmIrsIzuxxMoH6WTP4L+AEUS6YuHR08yNlx5jAXnUrvgY8hEFcSbNJVo5Q+vWr2/o+fE2hnV61KLsBrBL0SIeVX1SZlN3kDp4Xm2sHDlUUAAAAASUVORK5CYII="
         },
         "ArrowDownBlack": {
-            "description": "Icon2",
+            "description": "DownBlack",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqElEQVR4nO3VMQvCMBCG4bcOYkeHFlwEf497f7UodCqI4OrgGkdLB6WUaJL2rojcB98SCA8XDgKWuKwHzVDOHrgBz0HvQKUJXzxoH1eb3H2Bu+YGS8XZU2PLpRT3t8uVeT6Cro8AvPHcWaTApwCQ0jOwip32IAwvYycugFoAvQK7lKeWwEehU/FJ6FhcBE3FRdFYXAUN4aroJ3wW9JUSOAINsH2fWn4xLe3v5uG1d/wKAAAAAElFTkSuQmCC"
         },
         "ArrowUpGrey": {
-            "description": "Icon1",
+            "description": "UpGrey",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA20lEQVR4nO3VMQrCMBQG4CgoODoouAgexwN4np6jBygmP7zQV4rXENwqDo4OzjpW6uBQ2lqbJojmhzeGjxfyXoTw+eYQ0VwS7xVxBiRLJyiwm0nig9KcFyV1fAbzyimqXOCoQa3ieINawdES7RXHh2gvODqiRjgM0U54nueD53IwRF9FnIVhOHIOSx0fAYxbdx2l6bRcSsf3JoSIFuUzQRAMW6FNkZpvTTCAiTFSFQ8rf9Xwj6unyL+bY0V8qt3JxNdi1VqBtzpZK4ovVajUvBG2E5U+Amudil/KA6IDK6mP7L1JAAAAAElFTkSuQmCC"
         },
         "ArrowDownGrey": {
-            "description": "Icon2",
+            "description": "DownGrey",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA3klEQVR4nO3VsQrCMBAG4NZBdHRQcBF8Hndfp4/SSbgc3JGT4uoLiIKTIIKrg6uOkQ5KKbSmbSIO+eGfSvm4I2mjKMQiqywbFWuMiSOfQdILYLkpFlMssNwVy9IbDKwvZbSIe5scWB5VcF5EHAbYSSCsmsPhwnCdmsUYE5d/BHkV62fdl4uIpuV3kiTpWcNAcqgDmhRIn9N0O7CaFkh2LmFE7FtNjLgZA8mxM8r6iiJz61W7wFuhXfFOaFvcCdoUd4ra4l7Qb7hXtAr/CfoOEU0Uyx5ITojr2edByD/mBY7KKOZHcYB6AAAAAElFTkSuQmCC"
         },
         "ArrowUpGreen": {
-            "description": "Icon1",
+            "description": "UpGreen",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAy0lEQVR4nO3VvQrCMBSG4U9BwVHQnBaK4OqdeAFeTxcPOVC8AK9KcKs4ODo461ihONkf+5ME0bxwxvKQ0CSA76tLSEHTAUIpJFy4QTmYQ+gIoSwfrS5IaOkWFRc4V6BWcf6AWsG5IWoU55aoEZw7or1w7ol2wjMMXpdDZmhS7DFyD2s6IV6NW6x6MS2MqEctsp2FhW9iDJuhdWl1r4V30aQ/UpaHxW915H8uQ+n/O8d0robVLb9qrSTBGkLXUlQHG1hPvz0E1laKH+oJZLiZnijhYtoAAAAASUVORK5CYII="
         },
         "ArrowDownGreen": {
-            "description": "Icon2",
+            "description": "DownGreen",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAzklEQVR4nO3VsQrCMBAG4L8OYkdB7yxIxdVXcfd1uig5KL6ZKDgJIrg6uOpY6aBYQmvaJiKYH/4lED4uHATwMYmK+4VmCOA0wnMoukA4K1TRFcILl/BJQ99xZ5MrupXCedfj0MN2ovxTs1+u0NI2/c1yZQi0jyCv0L0SXg4i7U6CTo3JeFcJ1OsRyaRnNq3Qxi4865pNvBoNIbxvjSo6I+Wp+VPbwBuhbfFWaFPcCloXt4qa4k7QT7hTtAz/CvpMygThLRQdIFH8Ovf5xTwA5FmYpy/3p3UAAAAASUVORK5CYII="
         },
         "ArrowUpRed": {
-            "description": "Icon1",
+            "description": "UpRed",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA4ElEQVR4nGNgGAWDGawVtxTbKGt+fqOsxc1NktZydLF0m4SN6CZZ80ubZC3+g/BGGfMHG+XMFOlq6SZ6WL4Nh6U0tXwbAUtpYvk2Ii2lquXbSLSUKpZvI9NSiizfRqGlZFn+n4GBEVQ4UGop3HJZi5szjY1ZB8LiW6u0tNiI9vUWORtBdLxRxvw7PkvWyhlLouupZ2BgIspSfGCTrPk3fBavkrHgpNgSbGDU4k2jQS0zmrioBDaNvHwsY34Hj8VvQEUtbSyWNvfcJGPxApulG+UsQxloDbagVQQ08ynDcAIA6msJtayueXwAAAAASUVORK5CYII="
         },
         "ArrowDownRed": {
-            "description": "Icon2",
+            "description": "DownRed",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA6ElEQVR4nO3VvQrCMBQF4FsH0dHBn0ISce0q9EYs+ADuvo7vUyiYIK6+gCg4CSK4OrjqWOmglEJr2ibikANnKuXjXpIWwEYhaxZ00o0BHDCZFfPnkuBNUh6nKyjeBeULY7Ag/JJF07ixySXFRx6cNCS8bWEtkXbV1B4ubq9TucQATvZHkFQQfBZ9uSI2drPvLAEayrCgeCgCyhXP2+GspTStIHynEw49r6k08WYQdCXFY11UELwK5o+UV60Dr4TWxWuhVXEtaFlcK6qKG0G/4UbRPPwn6DtRf9KTBPeS4km6U/Z5YPOPeQHWwgjUJRyZ/QAAAABJRU5ErkJggg=="
         },
         "ArrowUpYellow": {
-            "description": "Icon1",
+            "description": "UpYellow",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA0UlEQVR4nO3VvwrCMBAG8CgoOApqLyAFV9/EB/CB69VOgiAuSgdHB2cdEvgki4P9Y22aKpoPbgw/LiR3Qvh8c7AOJpppq2I6gGXYDrqisWa507GEKcXyhCiYtYrqNnAUoE5xvECd4KiINorjTbQRHDVRKxyWaC0cEB0zHGzRB26GzEb0PgEfsZ/3K3cNDofPpWK6lSGIRjJzDqJbCS2LYrqWwsl0YI3kxcPaX3XiH1dDUX/4j2VavInoYkatI5gWiuU5D9VMS+E6yC4CN52KX8odSMX07yzrk1IAAAAASUVORK5CYII="
         },
         "ArrowDownYellow": {
-            "description": "Icon2",
+            "description": "DownYellow",
             "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA2UlEQVR4nO3VPQvCMBAG4NRBdBTUXqBUXP0r7v5dqZc6iYI4CCK4OrjqcIETB6V+tKZtIg554aYMD3ckOSF8DMIYd56KRSBchtJwTCiPWknOFiGcNIYTd7CS+1c0izvrnBDOefCteB61PWwl5Eet/OWK/HMqF2YRvC0CjDuk4FL4cyVd+WGBNIxhjbAqAsoUIex4OmgZdauVXFiFN6Om2ahn0NMo1/VReeAkHBqP2gZeCa2L10Kr4lbQsrhV1BR3gn7DnaJ5+E/QezgN+xphSQhbRhk/Dnz+MVdjmfMKS0pQRwAAAABJRU5ErkJggg=="
         }
     }
